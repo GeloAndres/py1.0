@@ -1,0 +1,3 @@
+Nombre: Gelo Figueroa, edad: 24, Estatura: 1,75 
+Nombre: Daniela Cataldo, edad: 20, Estatura: 1,64 
+Nombre: Damian Figueroa, edad: 1, Estatura: 40,5 

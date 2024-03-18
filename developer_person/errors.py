@@ -1,0 +1,16 @@
+result = 0
+
+print(result)
+print('hola')
+
+suma = lambda x, y: x + y
+assert suma(2,2) == 4
+
+print('hola 2')
+
+try:
+    age = 10
+    if age < 18:
+        raise Exception('No se permiten menores de edad.')
+except Exception as error:
+    print(error)
